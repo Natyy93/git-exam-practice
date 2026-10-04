@@ -1,0 +1,2 @@
+Git exam practice
+Today I practiced clone and branch.
